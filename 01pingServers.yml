@@ -7,5 +7,5 @@
       ping:
       remote_user: ansible
 ...
-// remote_user:Tomcat
+// remote_user:webserver tomcat
 
